@@ -7,3 +7,6 @@ Traffic sign detection and recognition project
 Cite:
 "Evaluation of deep neural networks for traffic sign detection systems."
 Álvaro Arcos-García, Juan A. Álvarez-García, Luis M. Soria-Morillo. Neurocomputing 316 (2018) 332-344.
+
+# Requirements: 
+This project is implemented in Tensorflow and it is based on two repositories: Tensorflow Object Detection API and darkflow.
