@@ -10,3 +10,12 @@ Cite:
 
 # Requirements: 
 This project is implemented in Tensorflow and it is based on two repositories: Tensorflow Object Detection API and darkflow.
+
+# Dataset and Pretrained models
+https://drive.google.com/drive/folders/1hedc1oIIBajuxyzheHQDsbh9bD0CO0Kp?usp=sharing
+
+# References:
+https://github.com/aarcosg/traffic-sign-detection
+
+# P.s
+If you find this helpful, please consider giving me a star! Thank you so much!
